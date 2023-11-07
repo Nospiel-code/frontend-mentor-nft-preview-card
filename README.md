@@ -13,7 +13,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,11 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://github.com/Nospiel-code/frontend-mentor-nft-preview-card/assets/130290610/e762bb7a-3b63-4ac5-8137-59db12a9bd3d)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Nospiel-code/frontend-mentor-nft-preview-card
+- Live Site URL: https://nospiel-code.github.io/frontend-mentor-nft-preview-card/
 
 ## My process
 
